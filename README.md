@@ -22,3 +22,5 @@ public -> 静态资源
 model -> 数据库操作  
 route -> 路由  
 views -> 模板  
+app.js -> 项目主文件
+package.json -> 初始化项目描述文件
