@@ -1,5 +1,6 @@
 # Blog-Management-System
-前端开发的小案例
+前端开发的小案例，因为网络的原因该项目移步至码云中，目前github中的代码不完整，码云中是最新版本
+https://gitee.com/xiangyu_kong/blog_management
 ## 内容
 ### 用户管理页面
 登录成功之后进入管理页面  
